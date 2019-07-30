@@ -18,6 +18,7 @@ Supported tags and respective `Dockefile` github links:
 - [`latest`](https://github.com/AntidoteDB/docker-antidote/blob/master/latest/Dockerfile): the most recent AntidoteDB version (Unstable).
 - [`0.2.0`, `stable`](https://github.com/AntidoteDB/docker-antidote/blob/master/v0.2.0/Dockerfile): the most recent stable release (recommended).
 - [`0.2.0-alpine`, `alpine`](https://github.com/AntidoteDB/docker-antidote/blob/master/v0.2.0-alpine/Dockerfile): the most recent lightweight alpine release.
+- [`0.2.0-alpine-iptables`, `alpine-iptables`](https://github.com/ilyasToumlilt/docker-antidote/blob/alpine-iptables/v0.2.0-alpine-iptables/Dockerfile): the most recent lightweight alpine release, containing iptables (which can be useful to create network partitions for testing AntidoteDB)
 - [`0.1.1`](https://github.com/AntidoteDB/docker-antidote/blob/master/v0.1.1/Dockerfile)
 - [`0.1.1-alpine`](https://github.com/AntidoteDB/docker-antidote/blob/master/v0.1.1-alpine/Dockerfile)
 - [`0.1.0`](https://github.com/AntidoteDB/docker-antidote/blob/master/v0.1.0/Dockerfile)
